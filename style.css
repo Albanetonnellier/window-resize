@@ -17,4 +17,5 @@ section.section {
 .title {
     color: white;
     font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 2px;
 }
