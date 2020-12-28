@@ -4,7 +4,7 @@ html, body, #app, section.section {
 }
 
 body {
-    background: -webkit-linear-gradient(yellow, tomato);
+    background: -webkit-linear-gradient(#C6FFDD, #FBD786, #f7797d);
 }
 
 section.section {
